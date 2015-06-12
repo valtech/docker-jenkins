@@ -1,1 +1,5 @@
 github-oauth
+github-api
+git
+scm-api 
+git-client
