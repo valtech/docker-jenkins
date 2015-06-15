@@ -3,3 +3,8 @@ github-api
 git
 scm-api 
 git-client
+job-dsl
+cloudbees-folder
+credentials
+vsphere-cloud 
+config-file-provider
