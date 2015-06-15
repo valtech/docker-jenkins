@@ -8,3 +8,7 @@ cloudbees-folder
 credentials
 vsphere-cloud 
 config-file-provider
+docker-plugin
+durable-task
+token-macro
+ssh-slaves
