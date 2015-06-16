@@ -22,3 +22,7 @@ git
 rvm
 ruby-runtime
 token-macro
+credentials-binding
+workflow-step-api 
+plain-credentials 
+credentials
