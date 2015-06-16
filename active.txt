@@ -13,3 +13,9 @@ token-macro
 ssh-slaves
 build-pipeline-plugin
 parameterized-trigger
+ansicolor
+timestamper
+rvm
+build-name-setter
+gradle
+jacoco
