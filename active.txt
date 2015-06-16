@@ -13,10 +13,12 @@ jquery
 parameterized-trigger
 ansicolor
 timestamper
-rvm
 build-name-setter
 gradle
 jacoco
 github-oauth
 github-api
 git
+rvm
+ruby-runtime
+token-macro
