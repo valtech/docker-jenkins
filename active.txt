@@ -1,6 +1,3 @@
-github-oauth
-github-api
-git
 scm-api 
 git-client
 job-dsl
@@ -12,6 +9,7 @@ durable-task
 token-macro
 ssh-slaves
 build-pipeline-plugin
+jquery
 parameterized-trigger
 ansicolor
 timestamper
@@ -19,3 +17,6 @@ rvm
 build-name-setter
 gradle
 jacoco
+github-oauth
+github-api
+git
