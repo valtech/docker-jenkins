@@ -25,3 +25,4 @@ credentials-binding
 workflow-step-api 
 plain-credentials 
 credentials
+openJDK-native-plugin
