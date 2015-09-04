@@ -1,4 +1,4 @@
-FROM jenkins:1.609.1
+FROM jenkins:1.609.3
 USER root
 RUN apt-get update &&  apt-get install -y python-pip && pip install awscli
 COPY active.txt .

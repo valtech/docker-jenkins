@@ -2,7 +2,6 @@ scm-api
 git-client
 job-dsl
 cloudbees-folder
-credentials
 vsphere-cloud 
 docker-plugin
 durable-task
