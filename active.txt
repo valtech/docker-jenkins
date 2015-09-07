@@ -26,3 +26,4 @@ workflow-step-api
 plain-credentials 
 credentials
 openJDK-native-plugin
+envinject
