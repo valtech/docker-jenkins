@@ -28,3 +28,4 @@ credentials
 openJDK-native-plugin
 envinject
 nodejs
+rbenv
