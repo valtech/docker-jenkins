@@ -17,6 +17,7 @@ gradle
 jacoco
 github-oauth
 github-api
+github
 git
 rvm
 ruby-runtime
