@@ -5,5 +5,6 @@ RUN apt-get update && \
     pip install awscli && \
     update-alternatives --install /usr/bin/node node /usr/bin/nodejs 10 && \
     npm install -g grunt-cli karma bower phantomjs
+ENV PHANTOMJS_BIN /usr/local/bin/phantomjs
 COPY active.txt .
 RUN /usr/local/bin/plugins.sh active.txt
