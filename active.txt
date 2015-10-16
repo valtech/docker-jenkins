@@ -30,3 +30,4 @@ openJDK-native-plugin
 envinject
 nodejs
 rbenv
+ssh-agent
