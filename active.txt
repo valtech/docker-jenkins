@@ -31,3 +31,4 @@ envinject
 nodejs
 rbenv
 ssh-agent
+naginator
