@@ -32,3 +32,4 @@ nodejs
 rbenv
 ssh-agent
 naginator
+build-flow-plugin
