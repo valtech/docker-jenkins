@@ -1,7 +1,7 @@
 FROM jenkins:1.609.3
 USER root
 RUN apt-get update && \
-    apt-get install -y nodejs npm && \
+    apt-get install -y python-setuptools nodejs npm && \
     easy_install pip && \
     pip install awscli awsebcli && \
     update-alternatives --install /usr/bin/node node /usr/bin/nodejs 10 && \
