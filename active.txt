@@ -35,3 +35,4 @@ naginator
 build-flow-plugin
 copyartifact
 extra-columns
+slack
