@@ -1,7 +1,7 @@
 FROM jenkins:1.609.3
 USER root
 RUN apt-get update && \
-    apt-get install openssl ruby bundler && \
+    apt-get install -y openssl ruby bundler && \
     apt-get install -y python-setuptools nodejs npm && \
     easy_install pip && \
     pip install awscli awsebcli && \
